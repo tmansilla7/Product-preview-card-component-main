@@ -64,7 +64,7 @@ a{
 }
 @media (min-width: 768px) { 
     .card__img{
-        background: url(../img/image-product-desktop.jpg) center cover/ no-repeat;
+        background: url(../img/image-product-desktop.jpg) center/cover no-repeat;
         border-radius: var(--borderRadius) 0 0 var(--borderRadius);
         height: 100%;
     }
